@@ -1,6 +1,8 @@
 # React17 + Vite
 
-axios
+react 17 + vite + axios + antd@5
+
+with eslint + husky + prettier + sass
 
 # 构建命令
 ```bash
